@@ -2,7 +2,7 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+Convert your personal bio information using semantic html. Make sure to use proper semantic tags for your page.
 
 ### Submission 
 
@@ -15,6 +15,7 @@ _Example of Referencing Classmate_
 
 Referenced the code block below.
 ```js
+    //This code is referenced from <source>
     function printMe(){
         console.log("I am a reference example");
     }

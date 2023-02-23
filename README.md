@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# HTML Block and Inline and Semantic HTML
 
 ## Dependencies
 
@@ -10,10 +10,12 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What inline and block HTML elements are
+- What semantic HTML are and what they are used for
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Distinguish and identify inline and block HTML elements
+- Use semantic HTML for different parts of a webpage
 
 
 ## Lesson Plan
