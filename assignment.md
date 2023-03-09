@@ -6,7 +6,7 @@ Convert your personal bio information using semantic html. Make sure to use prop
 
 ### Submission 
 
-- Submit the URL of the GitHub Repository that contains your work to NTU black board.
+- Submit the URL of the GitHub Repository that contains your work.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
 
 ### References
