@@ -6,18 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gina Russo</title>
 </head>
-
 <body style="background-color: #000; margin: 0">
-	<div style="width: 500px; margin: 0 auto; background-color: #fff; padding: 5px 20px">
-		<header  style="text-align: center">
+	<main style="width: 500px; margin: 0 auto; background-color: #fff; padding: 5px 20px">
+		<nav>
+            <ul>
+                <li><a href="#hobbies">Hobbies</a></li>
+                <li><a href="#hobbies">About Me</a></li>
+                <li><a href="#about-me">Contact Me</a></li>
+            </ul>
+        </nav>
+        <section style="text-align: center">
 			<h1 style="margin: 0">Gina Russo</h1>
-			<img src="images/gina.jpg" alt="Gina Russo" width="100px" style="border-radius: 10px">
-			<p style="font-weight: bold">GitHub URL: <a href="https://github.com/ginarusso" target="_blank">github.com/ginarusso</a></p>
+            <figure>
+			    <img src="images/gina.jpg" alt="Gina Russo" width="100px" style="border-radius: 10px">
+			    <figcaption>Gina Russo</figcaption>
+            </figure>
+            <p style="font-weight: bold">GitHub URL: <a href="https://github.com/ginarusso" target="_blank">github.com/ginarusso</a></p>
 			<h2 style="margin: 0">United States</h2>
 			<img src="images/flag.jpeg" alt="United States flag" width="100px" style="padding-bottom: 10px">
-		</header>
-		<main style="background-color: #094872; color: #fff; padding: 10px">
-			<h3>Hobbies</h3>
+		</section>
+		<section style="background-color: #094872; color: #fff; padding: 10px">
+			<h3 id="hobbies">Hobbies</h3>
 			<ul>
 				<li>coding
 				</li>
@@ -28,11 +37,11 @@
 				<li>cooking
 				</li>
 			</ul>
-			<h3>About Me</h3>
+			<h3 id="about-me">About Me</h3>
 			<p>With almost 5 years of experience as a web developer for Long Island University and an additional 5 years as a certified New York State School Library Media and Educational Technology Specialist, I'm looking for a full-stack developer position. Currently, I create and record customized code reviews for <a target="_blank" style="color: #fff" href="http://www.scrimba.com">Scrimba.com</a>. I evaluate Scrimba's bootcamp students' HTML, CSS, Javascript, and React solo projects, using Scrimba's interactive online coding platform.</p>
-		</main>
+		</section>
 		<footer>
-			<h3>Contact Me</h3>
+			<h3 id="contact-me">Contact Me</h3>
 			<form>
 			<label for="name" style="font-weight: bold">Name:</label>
 			<input style="display: block; margin-bottom: 10px;" type="text" name="name" id="name" placeholder="first and last name" required>
@@ -43,6 +52,6 @@
 			<input type="submit" style="font-weight: bold; background-color: #00008B; color: #fff" value="Submit">
 			</form>
 		</footer>
-	</div>
+	</main>
 </body>
 </html>
