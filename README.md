@@ -34,3 +34,4 @@ Learners will be able to:
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
 ||**END OF CLASS 2 HR MARK**|
 
+# 1.4-CSS-Selectors-Box-Model
